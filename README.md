@@ -28,16 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsjr&" alt="anilsjr" /></p>
 
-
-
-  <iframe
-  width="600"
-  height="450"
-  style="border:0;"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://anilsjr.github.io/portfolio/"
-></iframe>
-
-
