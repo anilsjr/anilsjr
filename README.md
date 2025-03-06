@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilsjr" alt="anilsjr" /></a> </p>
 
-- 🌱 I’m currently learning **MERN JAVA **
+- 🌱 I’m currently learning **MERN & JAVA**
 
 - 👨‍💻 All of my projects are available at [https://anilsjr.github.io/portfolio](https://anilsjr.github.io/portfolio)
 
-- 💬 Ask me about **react java javascript html css bootstrap MySql MongoDB**
+- 💬 Ask me about **react, java, javascript html, css, bootstrap,MySql, MongoDB**
 
 - 📫 How to reach me **anil.vishwakarma.it@gmail.com**
 
