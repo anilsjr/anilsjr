@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anil Vishwakarma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilsjr&label=Profile%20views&color=0e75b6&style=flat" alt="anilsjr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilsjr" alt="anilsjr" /></a> </p>
-
 - 🌱 I’m currently learning **MERN & JAVA**
 
 - 👨‍💻 All of my projects are available at [https://anilsjr.github.io/portfolio](https://anilsjr.github.io/portfolio)
 
-- 💬 Ask me about **react, java, javascript html, css, bootstrap,MySql, MongoDB**
+- 💬 Ask me about **NODE EXPRESS REACT JAVA JAVASCRIPT HTML CSS BOOTSTRAP Tailwind-CSS MySql MongoDB**
 
 - 📫 How to reach me **anil.vishwakarma.it@gmail.com**
 
@@ -25,4 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilsjr&show_icons=true&locale=en" alt="anilsjr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilsjr&" alt="anilsjr" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
