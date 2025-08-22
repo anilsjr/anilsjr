@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil Vishwakarma</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate Flutter & MERN developer from India</h3>
 
 - 🌱 I’m currently learning **MERN & JAVA**
 
